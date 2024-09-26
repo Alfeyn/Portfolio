@@ -10,9 +10,8 @@ Welcome to my **Portfolio**! This repository contains a collection of projects s
 
 I’m a passionate developer with expertise in frontend and backend technologies, always looking for new challenges to solve. Feel free to connect with me through any of my social platforms below.
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/akrem-muktar/)
-- **Twitter**: [Your Twitter](#)
-- **Website**: [Your Portfolio Website](#)
+- **LinkedIn**: [Akrem Muktar](https://www.linkedin.com/in/akrem-muktar/)
+- **Telegram**: [Abu Aliy](https://t.me/abualiy2)
 
 ---
 
